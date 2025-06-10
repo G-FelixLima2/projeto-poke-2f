@@ -1,0 +1,6 @@
+.PokeGrid {
+    background-color: red;
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    overflow: auto;
+}

@@ -1,0 +1,7 @@
+.PokeFlex {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    overflow: auto;
+    background-color: blue;
+}
